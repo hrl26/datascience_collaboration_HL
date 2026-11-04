@@ -1,0 +1,2 @@
+exploratory_analysis.R <- summary (iris)
+plot(iris$Sepal.Length, iris$Petal.Length, xlab = "Sepal length", ylab = "Petal length", main = "Iris measurements")
